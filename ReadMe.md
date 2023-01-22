@@ -1,4 +1,4 @@
-This repo is the server side of the Library project.
+# This repo is the server side of the Library project.
 
 The first thing we do is create a virtual environment.
 If we don't have it install on our pc, we need to install it.
